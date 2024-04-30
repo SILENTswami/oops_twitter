@@ -1,0 +1,5 @@
+# Created at 2024-04-30T21:58:32.324
+Boot Manifest-JAR contains absolute paths in classpath 'D:\BITS PILANI\hyd classes\3rd year\3-2\ooops\MAJOR  OOPS\twitter_final\twitter_final\twitter\twitter\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
